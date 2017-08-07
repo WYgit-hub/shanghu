@@ -1,0 +1,43 @@
+.mui-table-view{
+			    margin-top: 15%;
+		}
+			.mui-table-view li h4,h5{
+				line-height: 1.2;
+			}
+			.mui-btn-red {
+				width: 100%;height: 10%; bottom: 0px;position: absolute;
+			}
+		a{
+			color: #999;
+		}
+		a:active{
+			color: #999;
+		}
+		.price{
+			font-size: 17px;
+			color: #000;
+		}
+		.ion{
+			 font-size: 75%;
+		}
+		h4{
+			font-size: 16px;
+			font-weight: 500;
+		}
+		.titleNoOrder{
+			font-weight: 900;
+		}
+		.time-color{
+			 color: red;
+		}
+		.add-color {
+			color: #999999;
+		}
+		.user-color{
+			color: #999999;
+		}
+		.strong-price{
+			font-weight:600;
+			color: #000000;
+			margin-top: 1%;
+		}
